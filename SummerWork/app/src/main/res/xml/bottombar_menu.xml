@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_person_plan"
+        title="个人任务"
+        icon="@mipmap/icon_group_plan"
+        barColorWhenSelected="#FE3D81"
+        >
+    </tab>
+    <tab
+        id="@+id/tab_group_plan"
+        title="小组任务"
+        icon="@mipmap/icon_group_plan"
+        barColorWhenSelected="#FE3D81"
+        >
+    </tab>
+    <tab
+        id="@+id/tab_financial"
+        title="个人理财"
+        icon="@mipmap/icon_group_plan"
+        barColorWhenSelected="#FE3D81"
+        >
+    </tab>
+    <tab
+        id="@+id/tab_person_zone"
+        title="个人中心"
+        icon="@mipmap/icon_group_plan"
+        barColorWhenSelected="#FE3D81"
+        >
+    </tab>
+</tabs>
